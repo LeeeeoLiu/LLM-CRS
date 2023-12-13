@@ -1,0 +1,2 @@
+{"input": ["用户：化妆水有推荐的吗"], "domain": "美妆行业", "user_id": "2201213490657", "sid": "00042b5722066923742e774264c7e19f", "seller_id": "2200642392462", "task_name": "Understand", "sample_index_in_dialogue": 0, "sample_id": 0, "label": "品类：化妆水"}
+{"input": ["用户：化妆水有推荐的吗", "需求：品类：化妆水", "客服：请问您目前脸上有刺痛或者发痒的情况吗？/:065"], "domain": "美妆行业", "user_id": "2201213490657", "sid": "00042b5722066923742e774264c7e19f", "seller_id": "2200642392462", "task_name": "Understand", "sample_index_in_dialogue": 1, "sample_id": 1, "label": "肌肤问题：刺痛；肌肤问题：发痒"}

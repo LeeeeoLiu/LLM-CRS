@@ -1,0 +1,198 @@
+[
+    {
+        "domain": "美妆行业",
+        "sid": "00095ae344e293ed78cb7d5a78bc63f4",
+        "sellerid": "1652556914",
+        "userid": "3212946613",
+        "ds": "20221015",
+        "dialogue": [
+            {
+                "seq_no": 1,
+                "time": "2022-10-15 22:18:30",
+                "sender_type": "用户",
+                "send_content": "男士洗面奶水乳有没有套装",
+                "act_tag": "用户需求",
+                "attributes": [
+                    {
+                        "key": "性别",
+                        "value": "男",
+                        "start": 0,
+                        "exclusive_end": 1
+                    },
+                    {
+                        "key": "品类",
+                        "value": "洗面奶",
+                        "start": 2,
+                        "exclusive_end": 5
+                    },
+                    {
+                        "key": "品类",
+                        "value": "水乳",
+                        "start": 5,
+                        "exclusive_end": 7
+                    },
+                    {
+                        "key": "品类",
+                        "value": "套装",
+                        "start": 10,
+                        "exclusive_end": 12
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 2,
+                "time": "2022-10-15 22:18:43",
+                "sender_type": "客服",
+                "send_content": "请问您的芳龄多大，您的肤质是怎样的偏油，偏干，这边为您推荐适合您的产品呢~",
+                "act_tag": "系统提问",
+                "attributes": [
+                    {
+                        "key": "年龄",
+                        "value": "",
+                        "start": -1,
+                        "exclusive_end": -1
+                    },
+                    {
+                        "key": "肤质",
+                        "value": "偏油",
+                        "start": 17,
+                        "exclusive_end": 19
+                    },
+                    {
+                        "key": "肤质",
+                        "value": "偏干",
+                        "start": 20,
+                        "exclusive_end": 22
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 3,
+                "time": "2022-10-15 22:19:18",
+                "sender_type": "用户",
+                "send_content": "24",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "年龄",
+                        "value": "24",
+                        "start": 0,
+                        "exclusive_end": 2
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 4,
+                "time": "2022-10-15 22:19:25",
+                "sender_type": "用户",
+                "send_content": "偏干吧",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "肤质",
+                        "value": "偏干",
+                        "start": 0,
+                        "exclusive_end": 2
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 5,
+                "time": "2022-10-15 22:19:35",
+                "sender_type": "用户",
+                "send_content": "男士的",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "性别",
+                        "value": "男",
+                        "start": 0,
+                        "exclusive_end": 1
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 6,
+                "time": "2022-10-15 22:21:50",
+                "sender_type": "用户",
+                "send_content": "鼻子出油",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "肌肤问题",
+                        "value": "出油",
+                        "start": 2,
+                        "exclusive_end": 4
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 7,
+                "time": "2022-10-15 22:24:07",
+                "sender_type": "客服",
+                "send_content": "仅发送商品链接",
+                "act_tag": "系统推荐",
+                "attributes": [],
+                "rec_item_id": [
+                    "577681663455"
+                ],
+                "rec_item_info": [
+                    "577681663455@1801"
+                ],
+                "rec_item_candidates": [
+                    [
+                        "18164178876",
+                        "668355579597",
+                        "18177108057",
+                        "569473661963",
+                        "675596708415",
+                        "602547671655",
+                        "628813170103",
+                        "577681663455",
+                        "681176687454",
+                        "18178045978",
+                        "645474962024",
+                        "558253584626",
+                        "569475102686",
+                        "545529212165",
+                        "675933388062",
+                        "24544731177",
+                        "653616147146",
+                        "539339147375",
+                        "657438253456",
+                        "640665749524"
+                    ]
+                ]
+            },
+            {
+                "seq_no": 8,
+                "time": "2022-10-15 22:24:12",
+                "sender_type": "客服",
+                "send_content": "龙血能量系列富含龙血能量精粹，适合多种肌肤，尤其是混合偏干肌肤使用，迅速补水，舒缓倦容，改善干燥和黯沉，令皮肤活力充沛有神采",
+                "act_tag": "系统解释",
+                "attributes": [],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "u_need": {
+        "file_name": "u_need/train.json",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output",
+            "history": ""
+        }
+    }
+}

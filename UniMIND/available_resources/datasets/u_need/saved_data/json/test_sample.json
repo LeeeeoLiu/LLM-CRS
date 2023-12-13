@@ -1,0 +1,30 @@
+[
+  {
+    "input": [
+      "用户：男士洗面奶水乳有没有套装"
+    ],
+    "domain": "美妆行业",
+    "user_id": "3212946613",
+    "sid": "00095ae344e293ed78cb7d5a78bc63f4",
+    "seller_id": "1652556914",
+    "task_name": "Understand",
+    "sample_index_in_dialogue": 0,
+    "sample_id": 0,
+    "label": "性别：男；品类：洗面奶；品类：水乳；品类：套装"
+  },
+  {
+    "input": [
+      "用户：男士洗面奶水乳有没有套装",
+      "需求：性别：男；品类：洗面奶；品类：水乳；品类：套装",
+      "客服：请问您的芳龄多大，您的肤质是怎样的偏油，偏干，这边为您推荐适合您的产品呢~"
+    ],
+    "domain": "美妆行业",
+    "user_id": "3212946613",
+    "sid": "00095ae344e293ed78cb7d5a78bc63f4",
+    "seller_id": "1652556914",
+    "task_name": "Understand",
+    "sample_index_in_dialogue": 1,
+    "sample_id": 1,
+    "label": "年龄：；肤质：偏油；肤质：偏干"
+  }
+]

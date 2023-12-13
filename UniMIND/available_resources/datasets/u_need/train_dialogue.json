@@ -1,0 +1,109 @@
+[
+    {
+        "domain": "美妆行业",
+        "sid": "00042b5722066923742e774264c7e19f",
+        "sellerid": "2200642392462",
+        "userid": "2201213490657",
+        "ds": "20220918",
+        "dialogue": [
+            {
+                "seq_no": 1,
+                "time": "2022-09-18 14:03:28",
+                "sender_type": "用户",
+                "send_content": "化妆水有推荐的吗",
+                "act_tag": "用户需求",
+                "attributes": [
+                    {
+                        "key": "品类",
+                        "value": "化妆水",
+                        "start": 0,
+                        "exclusive_end": 3
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 2,
+                "time": "2022-09-18 14:16:09",
+                "sender_type": "客服",
+                "send_content": "请问您目前脸上有刺痛或者发痒的情况吗？/:065",
+                "act_tag": "系统提问",
+                "attributes": [
+                    {
+                        "key": "肌肤问题",
+                        "value": "刺痛",
+                        "start": 8,
+                        "exclusive_end": 10
+                    },
+                    {
+                        "key": "肌肤问题",
+                        "value": "发痒",
+                        "start": 12,
+                        "exclusive_end": 14
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 3,
+                "time": "2022-09-18 14:16:39",
+                "sender_type": "用户",
+                "send_content": "好像晒太阳后会发痒",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "肌肤问题",
+                        "value": "发痒",
+                        "start": 7,
+                        "exclusive_end": 9
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 4,
+                "time": "2022-09-18 14:22:00",
+                "sender_type": "客服",
+                "send_content": "仅发送商品链接",
+                "act_tag": "系统推荐",
+                "attributes": [],
+                "rec_item_id": [
+                    "586711180132"
+                ],
+                "rec_item_info": [
+                    "586711180132@1801"
+                ],
+                "rec_item_candidates": [
+                    [
+                        "653561578767",
+                        "653568279871",
+                        "645131565334",
+                        "653565146731",
+                        "653141303177",
+                        "669137097057",
+                        "604529288005",
+                        "586711633498",
+                        "681996070477",
+                        "586844964997",
+                        "586496085401",
+                        "653567347460",
+                        "661578882566",
+                        "587748630076",
+                        "586844172646",
+                        "653948544469",
+                        "586494216882",
+                        "662323955717",
+                        "681851926275",
+                        "586711180132"
+                    ]
+                ]
+            }
+        ]
+    }
+]

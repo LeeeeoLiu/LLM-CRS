@@ -1,0 +1,2 @@
+{"input": ["用户：推荐一款孕妇可以用的面膜"], "domain": "美妆行业", "user_id": "2874650493", "sid": "0003c2d628a972f0fcb1a82491e8ae15", "seller_id": "698462924", "task_name": "Understand", "sample_index_in_dialogue": 0, "sample_id": 0, "label": "人群：孕妇；品类：面膜"}
+{"input": ["用户：推荐一款孕妇可以用的面膜", "需求：人群：孕妇；品类：面膜", "客服：亲亲您是什么肌肤呢"], "domain": "美妆行业", "user_id": "2874650493", "sid": "0003c2d628a972f0fcb1a82491e8ae15", "seller_id": "698462924", "task_name": "Understand", "sample_index_in_dialogue": 1, "sample_id": 1, "label": "肤质："}

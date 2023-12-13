@@ -1,0 +1,156 @@
+[
+    {
+        "domain": "美妆行业",
+        "sid": "0003c2d628a972f0fcb1a82491e8ae15",
+        "sellerid": "698462924",
+        "userid": "2874650493",
+        "ds": "20221010",
+        "dialogue": [
+            {
+                "seq_no": 1,
+                "time": "2022-10-10 18:58:44",
+                "sender_type": "用户",
+                "send_content": "推荐一款孕妇可以用的面膜",
+                "act_tag": "用户需求",
+                "attributes": [
+                    {
+                        "key": "人群",
+                        "value": "孕妇",
+                        "start": 4,
+                        "exclusive_end": 6
+                    },
+                    {
+                        "key": "品类",
+                        "value": "面膜",
+                        "start": 10,
+                        "exclusive_end": 12
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 2,
+                "time": "2022-10-10 19:00:12",
+                "sender_type": "客服",
+                "send_content": "亲亲您是什么肌肤呢",
+                "act_tag": "系统提问",
+                "attributes": [
+                    {
+                        "key": "肤质",
+                        "value": "",
+                        "start": -1,
+                        "exclusive_end": -1
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 3,
+                "time": "2022-10-10 19:00:21",
+                "sender_type": "用户",
+                "send_content": "干性",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "肤质",
+                        "value": "干性",
+                        "start": 0,
+                        "exclusive_end": 2
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 4,
+                "time": "2022-10-10 19:00:43",
+                "sender_type": "客服",
+                "send_content": "是敏感肌吗",
+                "act_tag": "系统提问",
+                "attributes": [
+                    {
+                        "key": "肤质",
+                        "value": "敏感肌",
+                        "start": 1,
+                        "exclusive_end": 4
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 5,
+                "time": "2022-10-10 19:00:49",
+                "sender_type": "用户",
+                "send_content": "是敏感肌。",
+                "act_tag": "用户回答",
+                "attributes": [
+                    {
+                        "key": "肤质",
+                        "value": "敏感肌",
+                        "start": 1,
+                        "exclusive_end": 4
+                    }
+                ],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            },
+            {
+                "seq_no": 6,
+                "time": "2022-10-10 19:01:28",
+                "sender_type": "客服",
+                "send_content": "仅发送商品链接",
+                "act_tag": "系统推荐",
+                "attributes": [],
+                "rec_item_id": [
+                    "10408036353"
+                ],
+                "rec_item_info": [
+                    "10408036353@1801"
+                ],
+                "rec_item_candidates": [
+                    [
+                        "633699847711",
+                        "523187819812",
+                        "685454284341",
+                        "684141457683",
+                        "684779567704",
+                        "594273830001",
+                        "534882927881",
+                        "18162203077",
+                        "561903724686",
+                        "631984052422",
+                        "19388348898",
+                        "529139089857",
+                        "684647650592",
+                        "629854604902",
+                        "20112918518",
+                        "598242347568",
+                        "625614638606",
+                        "681868467116",
+                        "10408036353",
+                        "624179019035"
+                    ]
+                ]
+            },
+            {
+                "seq_no": 7,
+                "time": "2022-10-10 19:01:45",
+                "sender_type": "客服",
+                "send_content": "舒缓灼热，修护屏障，补水保湿①主打成分：马齿苋提取液舒缓肌肤不适，缓解外界刺激；双分子透明质酸：大小分子双重锁水保湿。②适合肌肤：适用于敏感性肌肤，特殊美容护理后肌肤和日晒后肌肤。",
+                "act_tag": "系统解释",
+                "attributes": [],
+                "rec_item_id": [],
+                "rec_item_info": [],
+                "rec_item_candidates": []
+            }
+        ]
+    }
+]
